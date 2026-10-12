@@ -20,7 +20,7 @@ This repository contains an Excel file for analyzing sales data of a coffee shop
 4. **Charts**: Charts and graphs are dynamically linked to the data. Simply update the data, and the charts will update automatically.
 
 
-![Dashboard Screenshot](Images/Final_Dashboard.png )
+<img width="1848" height="713" alt="Coffee Shop" src="https://github.com/user-attachments/assets/278540e9-9ea7-4223-be9a-b804a5c4eeb6" />
 
 **Requirements** : 
 
